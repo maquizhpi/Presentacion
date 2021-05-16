@@ -1,9 +1,10 @@
-## MUNDO CLEAN 
 <!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="utf-8">
   <title> INICIO </title>
+  <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+  <link href="css/estilos.css" rel="stylesheet" >
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800&display=swap" rel="stylesheet">  
 </head>                     
 
@@ -118,4 +119,3 @@
   </footer>
 </body>
 </html>
-
